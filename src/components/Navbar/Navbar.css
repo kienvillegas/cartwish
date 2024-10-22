@@ -47,6 +47,10 @@
   margin: 10px;
 }
 
+.navbar_links > a.active {
+  font-weight: 600;
+}
+
 .card_counts {
   justify-content: center;
   width: 20px;
